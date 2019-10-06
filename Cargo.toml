@@ -5,3 +5,5 @@ authors = ["Alexander Mielczarek <almielczarek@gmail.com>"]
 edition = "2018"
 
 [dependencies]
+hyper = "0.12"
+http = "0.1"
